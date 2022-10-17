@@ -61,6 +61,7 @@ public class LoginTest_Junit {
 		Thread.sleep(2000);
 		
 		// testing Git to push code
+		//pushing code after creating a new branch
 
 	}
 
